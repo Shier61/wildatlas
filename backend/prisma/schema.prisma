@@ -1,0 +1,49 @@
+// WildAtlas species database schema
+// SQLite for development; switch provider to postgresql/mysql for production.
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Species {
+  id              Int     @id @default(autoincrement())
+  slug            String  @unique
+  category        String // plant | animal
+  group           String // tree | herb | shrub | bird | mammal | reptile | amphibian | fish | insect
+  nameZh          String
+  nameEn          String
+  scientificName  String
+  family          String
+  native          Boolean @default(true)
+  invasiveRisk    String? // high | medium | watch (plants only)
+  iucnStatus      String // LC | NT | VU | EN | CR | EX | DD
+  chinaProtection String? // 国家一级/二级保护 (animals mainly)
+  distribution    String // JSON array of Chinese province names
+  distributionZh  String // textual range summary (Chinese)
+  distributionEn  String // textual range summary (English)
+  habitatZh       String
+  habitatEn       String
+  descriptionZh   String
+  descriptionEn   String
+  threatZh        String?
+  threatEn        String?
+  imageUrl        String
+  featured        Boolean @default(false)
+
+  @@index([category])
+  @@index([group])
+  @@index([iucnStatus])
+}
+
+model IdentifyRecord {
+  id        Int      @id @default(autoincrement())
+  imageName String
+  mode      String // live | demo
+  result    String // JSON array of candidates
+  createdAt DateTime @default(now())
+}

@@ -1,0 +1,329 @@
+{
+  "ginkgo": {
+    "source": "iNaturalist"
+  },
+  "metasequoia": {
+    "source": "iNaturalist"
+  },
+  "dove-tree": {
+    "source": "iNaturalist"
+  },
+  "chinese-tulip-tree": {
+    "source": "iNaturalist"
+  },
+  "baishanzu-fir": {
+    "source": "iNaturalist"
+  },
+  "putuo-hornbeam": {
+    "source": "iNaturalist"
+  },
+  "silver-fir": {
+    "source": "iNaturalist"
+  },
+  "huagai-magnolia": {
+    "source": "iNaturalist",
+    "attribution": "(c) Robert Ostling, all rights reserved, uploaded by Robert Ostling"
+  },
+  "southern-yew": {
+    "source": "iNaturalist",
+    "attribution": "(c) Abdurehman Jani, all rights reserved, uploaded by Abdurehman Jani"
+  },
+  "spiny-tree-fern": {
+    "source": "iNaturalist"
+  },
+  "wild-rice": {
+    "source": "iNaturalist"
+  },
+  "ginseng": {
+    "source": "iNaturalist"
+  },
+  "golden-camellia": {
+    "source": "iNaturalist",
+    "attribution": "(c) manassas, some rights reserved (CC BY-NC), uploaded by manassas"
+  },
+  "emei-michelia": {
+    "source": "iNaturalist",
+    "attribution": "(c) Smithsonian Institution, National Museum of Natural History, Department of Botany, some rights reserved (CC BY-NC-SA)"
+  },
+  "golden-slipper-orchid": {
+    "source": "iNaturalist"
+  },
+  "water-pine": {
+    "source": "iNaturalist"
+  },
+  "golden-larch": {
+    "source": "iNaturalist"
+  },
+  "giant-rhododendron": {
+    "source": "iNaturalist",
+    "attribution": "Daderot, no known copyright restrictions (public domain)"
+  },
+  "panzhihua-cycad": {
+    "source": "iNaturalist",
+    "attribution": "(c) Libertad_Jiangtao, some rights reserved (CC BY-NC), uploaded by Libertad_Jiangtao"
+  },
+  "bretschneidera": {
+    "source": "iNaturalist",
+    "attribution": "no rights reserved, uploaded by 葉子"
+  },
+  "camphor-tree": {
+    "source": "iNaturalist",
+    "attribution": "(c) Greg Tasney, some rights reserved (CC BY-SA), uploaded by Greg Tasney"
+  },
+  "canada-goldenrod": {
+    "source": "iNaturalist",
+    "attribution": "(c) jonastid, some rights reserved (CC BY-NC)"
+  },
+  "water-hyacinth": {
+    "source": "iNaturalist",
+    "attribution": "no rights reserved, uploaded by 葉子"
+  },
+  "crofton-weed": {
+    "source": "iNaturalist",
+    "attribution": "(c) Ixitixel, some rights reserved (CC BY-SA)"
+  },
+  "mikania-vine": {
+    "source": "iNaturalist",
+    "attribution": "no rights reserved, uploaded by 葉子"
+  },
+  "common-ragweed": {
+    "source": "iNaturalist",
+    "attribution": "(c) \nQwert1234, some rights reserved (CC BY-SA)"
+  },
+  "giant-ragweed": {
+    "source": "iNaturalist",
+    "attribution": "(c) thaven, some rights reserved (CC BY-NC)"
+  },
+  "alligator-weed": {
+    "source": "iNaturalist",
+    "attribution": "(c) Bryan, some rights reserved (CC BY-NC), uploaded by Bryan"
+  },
+  "smooth-cordgrass": {
+    "source": "iNaturalist",
+    "attribution": "(c) er-birds, some rights reserved (CC BY), uploaded by er-birds"
+  },
+  "lantana": {
+    "source": "iNaturalist",
+    "attribution": "(c) Rudy, all rights reserved, uploaded by Rudy"
+  },
+  "siam-weed": {
+    "source": "iNaturalist",
+    "attribution": "(c) Brian Oakes Haiti Hunter, some rights reserved (CC BY), uploaded by Brian Oakes Haiti Hunter"
+  },
+  "johnson-grass": {
+    "source": "iNaturalist",
+    "attribution": "(c) Harry Rose, some rights reserved (CC BY)"
+  },
+  "darnel": {
+    "source": "iNaturalist",
+    "attribution": "(c) Ori Fragman-Sapir, all rights reserved, uploaded by Ori Fragman-Sapir"
+  },
+  "yellow-top": {
+    "source": "iNaturalist",
+    "attribution": "(c) Tony Rebelo, some rights reserved (CC BY-SA), uploaded by Tony Rebelo"
+  },
+  "parthenium": {
+    "source": "iNaturalist",
+    "attribution": "(c) Bernard DUPONT, some rights reserved (CC BY-SA)"
+  },
+  "epazote": {
+    "source": "iNaturalist",
+    "attribution": "(c) J. Richard Abbott, some rights reserved (CC BY-NC), uploaded by J. Richard Abbott"
+  },
+  "spiny-amaranth": {
+    "source": "iNaturalist",
+    "attribution": "(c) Mary Keim, some rights reserved (CC BY-NC-SA)"
+  },
+  "madeira-vine": {
+    "source": "iNaturalist",
+    "attribution": "(c) fish2bug, all rights reserved, uploaded by fish2bug"
+  },
+  "english-cordgrass": {
+    "source": "iNaturalist",
+    "attribution": "(c) Sharon Robinson, all rights reserved, uploaded by Sharon Robinson"
+  },
+  "field-sandbur": {
+    "source": "iNaturalist",
+    "attribution": "(c) Ary Mailhos, some rights reserved (CC BY-NC), uploaded by Ary Mailhos"
+  },
+  "morning-glory-vine": {
+    "source": "iNaturalist",
+    "attribution": "no rights reserved, uploaded by 葉子"
+  },
+  "giant-panda": {
+    "source": "iNaturalist",
+    "attribution": "(c) Joachim S. Müller, some rights reserved (CC BY-NC-SA)"
+  },
+  "golden-snub-nosed-monkey": {
+    "source": "iNaturalist",
+    "attribution": "(c) Jack Hynes, some rights reserved (CC BY-SA)"
+  },
+  "snow-leopard": {
+    "source": "iNaturalist",
+    "attribution": "(c) Tambako The Jaguar, some rights reserved (CC BY-ND)"
+  },
+  "siberian-tiger": {
+    "source": "iNaturalist",
+    "attribution": "(c) Dave Pape, some rights reserved (CC BY)"
+  },
+  "asian-elephant": {
+    "source": "iNaturalist",
+    "attribution": "(c) Mousam Ray, some rights reserved (CC BY-NC), uploaded by Mousam Ray"
+  },
+  "chinese-pangolin": {
+    "source": "iNaturalist",
+    "attribution": "(c) Artur Tomaszek, all rights reserved, uploaded by Artur Tomaszek"
+  },
+  "yangtze-finless-porpoise": {
+    "source": "iNaturalist",
+    "attribution": "(c) Huangdan2060, some rights reserved (CC BY)"
+  },
+  "tibetan-antelope": {
+    "source": "iNaturalist",
+    "attribution": "(c) pfaucher, some rights reserved (CC BY-NC), uploaded by pfaucher"
+  },
+  "przewalskis-gazelle": {
+    "source": "iNaturalist",
+    "attribution": "(c) HUANG QIN, all rights reserved, uploaded by HUANG QIN"
+  },
+  "skywalker-hoolock-gibbon": {
+    "source": "iNaturalist",
+    "attribution": "(c) HUANG QIN, all rights reserved, uploaded by HUANG QIN"
+  },
+  "khulan": {
+    "source": "iNaturalist",
+    "attribution": "(c) \nMichael Oppermann, some rights reserved (CC BY-SA)"
+  },
+  "pallas-cat": {
+    "source": "iNaturalist",
+    "attribution": "(c) Phil Benstead, some rights reserved (CC BY-NC), uploaded by Phil Benstead"
+  },
+  "crested-ibis": {
+    "source": "iNaturalist",
+    "attribution": "(c) Justin Walker, some rights reserved (CC BY-NC), uploaded by Justin Walker"
+  },
+  "red-crowned-crane": {
+    "source": "iNaturalist",
+    "attribution": "(c) naturepower2021, some rights reserved (CC BY-NC)"
+  },
+  "black-necked-crane": {
+    "source": "iNaturalist",
+    "attribution": "(c) egorbirder, some rights reserved (CC BY)"
+  },
+  "scaly-sided-merganser": {
+    "source": "iNaturalist",
+    "attribution": "(c) Massimiliano Sticca, some rights reserved (CC BY-NC-ND)"
+  },
+  "baers-pochard": {
+    "source": "iNaturalist",
+    "attribution": "(c) Terry Townshend, some rights reserved (CC BY-NC), uploaded by Terry Townshend"
+  },
+  "cabots-tragopan": {
+    "source": "iNaturalist",
+    "attribution": "(c) 藜梓柠, some rights reserved (CC BY-NC), uploaded by 藜梓柠"
+  },
+  "brown-eared-pheasant": {
+    "source": "iNaturalist",
+    "attribution": "(c) Yishen Xiao, some rights reserved (CC BY-NC), uploaded by Yishen Xiao"
+  },
+  "oriental-stork": {
+    "source": "iNaturalist",
+    "attribution": "(c) Kim, Hyun-tae, some rights reserved (CC BY), uploaded by Kim, Hyun-tae"
+  },
+  "black-faced-spoonbill": {
+    "source": "iNaturalist",
+    "attribution": "(c) Arlango Lee, some rights reserved (CC BY-NC), uploaded by Arlango Lee"
+  },
+  "siberian-crane": {
+    "source": "iNaturalist",
+    "attribution": "(c) Andy Lazere, some rights reserved (CC BY-NC), uploaded by Andy Lazere"
+  },
+  "yellow-breasted-bunting": {
+    "source": "iNaturalist",
+    "attribution": "(c) Pavel Shukov, some rights reserved (CC BY-NC), uploaded by Pavel Shukov"
+  },
+  "golden-eagle": {
+    "source": "iNaturalist",
+    "attribution": "(c) Carlos N. G. Bocos, all rights reserved, uploaded by Carlos N. G. Bocos"
+  },
+  "relict-gull": {
+    "source": "iNaturalist",
+    "attribution": "(c) Вадим Ивушкин, all rights reserved, uploaded by Вадим Ивушкин"
+  },
+  "yangtze-alligator": {
+    "source": "iNaturalist",
+    "attribution": "(c) Logan Fu, some rights reserved (CC BY-NC), uploaded by Logan Fu"
+  },
+  "shinisaurus": {
+    "source": "iNaturalist",
+    "attribution": "(c) Spark, all rights reserved, uploaded by Spark"
+  },
+  "burmese-python": {
+    "source": "iNaturalist",
+    "attribution": "(c) Wayne Fidler, some rights reserved (CC BY-NC), uploaded by Wayne Fidler"
+  },
+  "red-eared-slider": {
+    "source": "iNaturalist",
+    "attribution": "(c) Laurent Lebois ©, some rights reserved (CC BY)"
+  },
+  "chinese-giant-salamander": {
+    "source": "iNaturalist",
+    "attribution": "(c) Benjamin Tapley, all rights reserved, uploaded by Benjamin Tapley"
+  },
+  "zhenhai-warty-newt": {
+    "source": "iNaturalist",
+    "attribution": "版权所有 (c) Spark，保留所有权利, 由 Spark 上传"
+  },
+  "tiger-frog": {
+    "source": "iNaturalist",
+    "attribution": "(c) Uday Agashe, some rights reserved (CC BY-NC), uploaded by Uday Agashe"
+  },
+  "chinese-sturgeon": {
+    "source": "iNaturalist",
+    "attribution": "(c) CEphoto, Uwe Aranas, some rights reserved (CC BY-SA)"
+  },
+  "chinese-paddlefish": {
+    "source": "iNaturalist",
+    "attribution": "(c) \nWei Qiwei, some rights reserved (CC BY-SA)"
+  },
+  "tanichthys": {
+    "source": "iNaturalist",
+    "attribution": "(c) Zinogre, some rights reserved (CC BY-SA), uploaded by Zinogre"
+  },
+  "naked-carp": {
+    "source": "iNaturalist",
+    "attribution": "(c) Chekiangense Longpotamon, all rights reserved, uploaded by Chekiangense Longpotamon"
+  },
+  "mosquitofish": {
+    "source": "iNaturalist",
+    "attribution": "(c) Natthaphat Chotjuckdikul, all rights reserved, uploaded by Natthaphat Chotjuckdikul"
+  },
+  "nile-tilapia": {
+    "source": "iNaturalist",
+    "attribution": "(c) species_spotlight, all rights reserved, uploaded by species_spotlight"
+  },
+  "crayfish": {
+    "source": "iNaturalist",
+    "attribution": "(c) fra298, some rights reserved (CC BY-NC-ND)"
+  },
+  "apple-snail": {
+    "source": "iNaturalist",
+    "attribution": "(c) Greg Page, all rights reserved, uploaded by Greg Page"
+  },
+  "red-imported-fire-ant": {
+    "source": "iNaturalist",
+    "attribution": "(c) Judy Gallagher, some rights reserved (CC BY)"
+  },
+  "golden-kaiser-ihind": {
+    "source": "iNaturalist",
+    "attribution": "(c) raylei, some rights reserved (CC BY-NC-ND)"
+  },
+  "luehdorfia": {
+    "source": "iNaturalist",
+    "attribution": "(c) raylei, some rights reserved (CC BY-NC-ND)"
+  },
+  "chinese-honey-bee": {
+    "source": "iNaturalist",
+    "attribution": "(c) kkchome, all rights reserved"
+  }
+}
